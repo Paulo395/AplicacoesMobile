@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeira Aplicação Android</string>
+    <string name="texto_do_botao">Clique Aqui!!!</string>
+    <string name="texto_do_label">Meu Primeiro App!!!</string>
+</resources>
